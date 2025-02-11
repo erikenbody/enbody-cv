@@ -54,7 +54,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-### Under review or in revision
+`2024` Andrade, P., Alves, J.M., Pereira, P., Rubin CJ, Silva E, Sprehn CG, **Enbody E**, Afonso S, Faria R, Zhang Y, Bonino N, Duckworth JA, Garreau H, Letnic M, Strive T, Thulin CG, Queney G, Villafuerte R, Jiggins FM, Ferrand N, Andersson L, Carneiro M 2024. Selection against domestication alleles in introduced rabbit populations. [Nature Ecology & Evolution](https://doi.org/10.1038/s41559-024-02443-3)
 
 `2024` Sangdehi, F.M., M.S. Jamsandekar, **E.D. Enbody**, M.E. Pettersson, L. Andersson. 2024. Copy number variation and elevated genetic diversity at immune 1 trait loci in Atlantic and Pacific herring. [BMC Genomics](https://doi.org/10.1186/s12864-024-10380-5).
 
