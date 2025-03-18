@@ -641,8 +641,6 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 **Database** MongoDB, Filemaker, FreezerPro
 
-**Version Control** GIT
-
 <!-- ### Footer
 
 Last updated: April 2022 -->
