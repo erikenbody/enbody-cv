@@ -22,7 +22,7 @@ I am an evolutionary and conservation biologist trained in bioinformatics, field
 `2025-`
 **Cornell University, Ithaca, NY**
 
-**Current** Susan E. Lynch Assistant Professor. Department of Computational Biology. 
+Susan E. Lynch Assistant Professor. Department of Computational Biology. 
 
 `2021-2024`
 **University of California, Santa Cruz, CA**
