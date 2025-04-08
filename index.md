@@ -5,12 +5,11 @@ title: Erik Enbody CV
 # Erik D. Enbody
 
 <div id="webaddress">
-<a href="mailto:erik.enbody@gmail.com">erik.enbody@gmail.com</a>
+<a href="mailto:erik.enbody@gmail.com">enbody@cornell.edu</a>
 |
 <a href="https://erikenbody.github.io">erikenbody.github.io</a>
-
-<a href="https://bsky.app/profile/erikenbody.bsky.social">@erikenbody</a>
-
+|
+<i class="fa fa-twitter"></i> <a href="https://bsky.app/profile/erikenbody.bsky.social">@erikenbody</a>
 </div>
 
 
