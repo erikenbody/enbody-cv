@@ -8,8 +8,9 @@ title: Erik Enbody CV
 <a href="mailto:erik.enbody@gmail.com">erik.enbody@gmail.com</a>
 |
 <a href="https://erikenbody.github.io">erikenbody.github.io</a>
-|
-<i class="fa fa-twitter"></i> <a href="https://twitter.com/erikenbody">@erikenbody</a>
+
+<a href="https://bsky.app/profile/erikenbody.bsky.social">@erikenbody</a>
+
 </div>
 
 
@@ -657,6 +658,8 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 **Workflow managers** Snakemake
 
 **Database** MongoDB, Filemaker, FreezerPro
+
+**Version Control** GIT
 
 <!-- ### Footer
 
