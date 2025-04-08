@@ -22,7 +22,7 @@ I am an evolutionary and conservation biologist trained in bioinformatics, field
 `2025-`
 **Cornell University, Ithaca, NY**
 
-**Current** Susan E. Lynch Assistant Professor. Department of Computational Biology. 
+Susan E. Lynch Assistant Professor. Department of Computational Biology. 
 
 `2021-2024`
 **University of California, Santa Cruz, CA**
@@ -53,6 +53,8 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
+
+`2025` Khalil, S., J. Walsh, **E.D. Enbody**, D.T. Baldassarre, M.S. Webster, J. Karubian. Adaptive introgression of putative carotenoid pigment genes explains geographic variation in a sexually-selected plumage trait. [Provisional acceptance: Evolution].
 
 `2024` Andrade, P., Alves, J.M., Pereira, P., Rubin CJ, Silva E, Sprehn CG, **Enbody E**, Afonso S, Faria R, Zhang Y, Bonino N, Duckworth JA, Garreau H, Letnic M, Strive T, Thulin CG, Queney G, Villafuerte R, Jiggins FM, Ferrand N, Andersson L, Carneiro M 2024. Selection against domestication alleles in introduced rabbit populations. [Nature Ecology & Evolution](https://doi.org/10.1038/s41559-024-02443-3)
 
@@ -145,13 +147,13 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 [Small Tree Finch assembly *Camharynchus parvulus*](https://www.ncbi.nlm.nih.gov/assembly/GCA_902806625.1)
 
-[European Rabbit (in progress)](https://www.ncbi.nlm.nih.gov/assembly/GCA_013371645.1)
+[European Rabbit *Oryctolagus cuniculus*](https://www.ncbi.nlm.nih.gov/assembly/GCA_013371645.1)
 
 [Ruff: *Calidris pugnax*](https://github.com/LeifAnderssonLab/Ruff_assembly_2022/)
 
 [White-shouldered Fairywren *Malurus alboscapulatus*](https://www.ncbi.nlm.nih.gov/assembly/GCA_025434525.1/)
 
-Red-backed Fairywren: *Malurus melanocephalus* (in progress)
+[Red-backed Fairywren *Malurus melanocephalus*](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_030028575.1/)
 
 ## Grants and Honors
 
@@ -220,6 +222,9 @@ Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
 ## Invited Seminars & Visiting Lectures
+
+`2025`
+The genes of the finch: using community genomics to study short and long-term evolution of Galápagos finches. SUNY Oswego student seminar series, Oswego, NY. 
 
 `2024`
 Community genomics in a changing world: linking ecological change with evolutionary outcomes. Cornell University, New York.
@@ -461,6 +466,10 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Mentoring
 
+`2025-` Rachel Goodridge - Ph.D. student (co-advised with Philipp Messer)
+
+`2023-` Ryan Pontius — junior specialist (now masters student)
+
 `2022-23` Mara Baylis — junior specialist (now Ph.D. student) developing data wrangling, cloud, and bioinformatics experience.
 
 `2022-23` Nick Chan - undergraduate (now Ph.D. student) developing comparative demographic modeling methods.
@@ -486,6 +495,14 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 `2015-16`	Zoe Albert – video-based nest observation data collection.
 
 `2013-17`	Six international recent graduates in field data collection methods in New Guinea.
+
+## Ph.D. Committees I serve on
+
+`2025-` Yixin Zhu - Matt Pennell lab, Cornell University
+
+`2025-` Portia Wong - L. Melissa Guzman lab, Cornell University
+
+`2025-` Anne Nakamoto - Russ Corbett-Detig lab, UC Santa Cruz
 
 ## Fieldwork Experience
 
@@ -529,7 +546,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Manuscript reviews
 
-Current Biology (2), Molecular Biology & Evolution (2), LOS Genetics (1), Molecular Ecology (3), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Current Biology (3), Molecular Biology & Evolution (2), PLOS Genetics (1), Molecular Ecology (4), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 ### Service & Outreach
 
