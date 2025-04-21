@@ -556,7 +556,7 @@ Current Biology (3), Molecular Biology & Evolution (2), PLOS Genetics (1), Molec
 
 `2023` DNA Day Panel Member and Presentor, CSU Monterey Bay, CA
 
-`2022-`
+`2022-2024`
 UC Santa Cruz Genomics Institute Diversity Committee Member
 
 `2020`
