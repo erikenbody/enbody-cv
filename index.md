@@ -24,7 +24,7 @@ I am an evolutionary and conservation biologist trained in bioinformatics, field
 
 Susan E. Lynch Assistant Professor. Department of Computational Biology. 
 
-`2021-2024`
+`2021-24`
 **University of California, Santa Cruz, CA**
 
 Postdoctoral Scholar in Genomics & Bioinformatics with Dr. Russ Corbett-Detig. Biomolecular
