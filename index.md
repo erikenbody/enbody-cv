@@ -54,7 +54,9 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-`2025` Khalil, S., J. Walsh, **E.D. Enbody**, D.T. Baldassarre, M.S. Webster, J. Karubian. Adaptive introgression of putative carotenoid pigment genes explains geographic variation in a sexually-selected plumage trait. [Provisional acceptance: Evolution].
+`2025` Mirchandani, C., **E.D. Enbody**, T.B. Sackton, R. Corbett-Detig. Efficient Estimation of Nucleotide Diversity and Divergence using Depth Information [Accepted: Molecular Biology and Evolution, preprint link](https://doi.org/10.1101/2025.05.15.654353)
+
+`2025` Khalil, S., J. Walsh, **E.D. Enbody**, D.T. Baldassarre, M.S. Webster, J. Karubian. Adaptive introgression of putative carotenoid pigment genes explains geographic variation in a sexually-selected plumage trait. [Evolution](https://doi.org/10.1093/evolut/qpaf135).
 
 `2024` Andrade, P., Alves, J.M., Pereira, P., Rubin CJ, Silva E, Sprehn CG, **Enbody E**, Afonso S, Faria R, Zhang Y, Bonino N, Duckworth JA, Garreau H, Letnic M, Strive T, Thulin CG, Queney G, Villafuerte R, Jiggins FM, Ferrand N, Andersson L, Carneiro M 2024. Selection against domestication alleles in introduced rabbit populations. [Nature Ecology & Evolution](https://doi.org/10.1038/s41559-024-02443-3)
 
@@ -64,7 +66,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2024` Sin, S.Y.W., F. K., G. Chen, P.-Y. Huang, **E.D. Enbody**, J. Karubian, M. S. Webster, S. V. Edwards. 2024. Genetic basis and evolution of structural color polymorphism in an Australian songbird. [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msae046).
 
-`2024` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. 2024. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Molecular Biology and Evolution, in press](https://doi.org/10.1093/molbev/msad270)
+`2024` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. 2024. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msad270).
 
 `2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. 2023. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. 331(6665)](https://doi.org/10.1126/science.adf6218).
 
