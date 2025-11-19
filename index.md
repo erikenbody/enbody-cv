@@ -56,6 +56,8 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2025` Mirchandani, C., **E.D. Enbody**, T.B. Sackton, R. Corbett-Detig. Efficient Estimation of Nucleotide Diversity and Divergence using Depth Information [Accepted: Molecular Biology and Evolution, preprint link](https://doi.org/10.1101/2025.05.15.654353)
 
+`2025` Benham, P.M., C. Cicero, M.M. Davila, **E.D. Enbody**, K.S. Miller, A.J. Shultz, L.L. Smith, M.W. Nachman, R.C.K. Bowie. Patterns of Genetic Diversity Within Three California Quail Species Are Best Explained by Climate and Landscape Changes. [Molecular Ecology, 34(20):e70093](https://doi.org/10.1111/mec.70093)
+
 `2025` Khalil, S., J. Walsh, **E.D. Enbody**, D.T. Baldassarre, M.S. Webster, J. Karubian. Adaptive introgression of putative carotenoid pigment genes explains geographic variation in a sexually-selected plumage trait. [Evolution](https://doi.org/10.1093/evolut/qpaf135).
 
 `2024` Andrade, P., Alves, J.M., Pereira, P., Rubin CJ, Silva E, Sprehn CG, **Enbody E**, Afonso S, Faria R, Zhang Y, Bonino N, Duckworth JA, Garreau H, Letnic M, Strive T, Thulin CG, Queney G, Villafuerte R, Jiggins FM, Ferrand N, Andersson L, Carneiro M 2024. Selection against domestication alleles in introduced rabbit populations. [Nature Ecology & Evolution](https://doi.org/10.1038/s41559-024-02443-3)
