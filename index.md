@@ -502,6 +502,12 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ## Ph.D. Committees I serve on
 
+`2025-` Cheyenne Thomas - Corrie Moreau lab, Cornell University
+
+`2025-` Lin Yuan - April Wei lab, Cornell University
+
+`2025-` Portia Wang - L. Melissa Guzman lab, Cornell University
+
 `2025-` Yixin Zhu - Matt Pennell lab, Cornell University
 
 `2025-` Portia Wong - L. Melissa Guzman lab, Cornell University
