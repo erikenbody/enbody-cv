@@ -168,9 +168,13 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 ### Grants submitted
 
 `2026` Simons Foundation - LOI invited for full submission, pending full submission spring 2026
+
 `2026` Packard Foundation LOI submitted to Cornell (not funded)
+
 `2026` NSF SBS grant on bill evolution in Munia - submission spring 2026
+
 `2026` NSF DEB grant in Bio-AI - submission spring 2026
+
 `2025` NIH MIRA R35 - Submitted, October 2025 (under review)
 
 ### Research Grants
