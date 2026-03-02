@@ -145,6 +145,10 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
+### Preprints
+
+`2026` Sebastianelli Arbelaez, M., **E.D. Enbody**, C.-J. Rubin, C. Valle, L. Keller, R. Grant, P. Grant, L. Andersson. Introgression facilitates rapid evolution of Galápagos tree finches [Preprint, under review](https://doi.org/10.21203/rs.3.rs-8220844/v1).
+
 ### Genome assemblies
 
 [White Wagtail assembly *Motacilla alba*](https://www.ncbi.nlm.nih.gov/assembly/GCF_015832195.1)
@@ -160,6 +164,14 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 [Red-backed Fairywren *Malurus melanocephalus*](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_030028575.1/)
 
 ## Grants and Honors
+
+### Grants submitted
+
+`2026` Simons Foundation - LOI invited for full submission, pending full submission spring 2026
+`2026` Packard Foundation LOI submitted to Cornell (not funded)
+`2026` NSF SBS grant on bill evolution in Munia - submission spring 2026
+`2026` NSF DEB grant in Bio-AI - submission spring 2026
+`2025` NIH MIRA R35 - Submitted, October 2025 (under review)
 
 ### Research Grants
 
@@ -224,6 +236,29 @@ Best Dissertation, Department of Ecology & Evolutionary Biology, Tulane Universi
 `2012`
 Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
+
+## Ph.D. mentees
+
+`2026-` Gerardo Mendoza - Ph.D. student
+`2025-` Amanda Sun - GGD Ph.D. student
+`2025-` Rachel Goodridge - Ph.D. student (co-advised with Philipp Messer)
+
+## Ph.D. Committees I serve on
+
+`2026-` Katalin Voss - Matt Pennell lab, Cornell University
+
+`2025-` Cheyenne Thomas - Corrie Moreau lab, Cornell University
+
+`2025-` Lin Yuan - April Wei lab, Cornell University
+
+`2025-` Portia Wang - L. Melissa Guzman lab, Cornell University
+
+`2025-` Yixin Zhu - Matt Pennell lab, Cornell University
+
+`2025-` Portia Wong - L. Melissa Guzman lab, Cornell University
+
+`2025-` Anne Nakamoto - Russ Corbett-Detig lab, UC Santa Cruz
+
 
 ## Invited Seminars & Visiting Lectures
 
@@ -434,6 +469,8 @@ Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to
 
 ### Instructor
 
+`2026/sp` Advanced Conservation Biology (CB4100), Cornell University 
+
 `2021/su` Tropical Field Biology & Conservation, Instructor - Tulane University / FCAT-Ecuador. Facilitated student-designed and implemented research projects in tropical ecology, in addition to logistics coordination.
 
 ### Teaching assistant and guest lectures
@@ -470,8 +507,6 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Mentoring
 
-`2025-` Rachel Goodridge - Ph.D. student (co-advised with Philipp Messer)
-
 `2023-` Ryan Pontius — junior specialist (now masters student)
 
 `2022-23` Mara Baylis — junior specialist (now Ph.D. student) developing data wrangling, cloud, and bioinformatics experience.
@@ -500,19 +535,6 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 `2013-17`	Six international recent graduates in field data collection methods in New Guinea.
 
-## Ph.D. Committees I serve on
-
-`2025-` Cheyenne Thomas - Corrie Moreau lab, Cornell University
-
-`2025-` Lin Yuan - April Wei lab, Cornell University
-
-`2025-` Portia Wang - L. Melissa Guzman lab, Cornell University
-
-`2025-` Yixin Zhu - Matt Pennell lab, Cornell University
-
-`2025-` Portia Wong - L. Melissa Guzman lab, Cornell University
-
-`2025-` Anne Nakamoto - Russ Corbett-Detig lab, UC Santa Cruz
 
 ## Fieldwork Experience
 
@@ -556,9 +578,11 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Manuscript reviews
 
-Current Biology (3), Molecular Biology & Evolution (2), PLOS Genetics (1), Molecular Ecology (4), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Science (1), Current Biology (3), Molecular Biology & Evolution (3), PLOS Genetics (1), Molecular Ecology (4), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 ### Service & Outreach
+
+`2026` 3CPG Executive committee member, Cornell University. Responsible
 
 `2024` Presentation Judge, American Ornithological Society meeting, Estes Park, CO
 
@@ -576,8 +600,7 @@ Presentation judge, North American Ornithological Conference (virtual)
 "Skype-a-scientist" Webber Middle School, Fort Collins, CO
 
 `2016-18`
-Volunteer bird bander with Louisiana Bird Observatory / Audubon Louisiana at Palmetto State Park: Regular weekend volunteer at local bird banding station to assist with mist net set up and bird banding.
-
+Volunteer bird bander with Louisiana Bird Observatory / Audubon Louisiana at Palmetto State Park
 `2016`		
 Girls in STEM, Tulane University, New Orleans, LA: Module co-instructor for “A little birdie told me”. GIST is a long-term program aimed at introducing female elementary and middle school students to science and female scientists.
 
@@ -610,11 +633,11 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 ### Specialized Training
 
-`2012`		Certified Bird Bander by the North American Banding Council
-
 `2015`		UCLA La Kretz Conservation Genomics Workshop, Santa Monica, California
 
 `2013`		Michigan State University CSE Python Workshop, East Lansing, MI
+
+`2012`		Certified Bird Bander by the North American Banding Council
 
 `2011`		Boston University Tropical Ecology Program, Ecuador - Spring
 
@@ -622,9 +645,11 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 ### Professional memberships
 
-`2014-24`	American Ornithological Society
+`2014-`	American Ornithological Society
 
-`2014-24`	Society for the Study of Evolution
+`2021-` Genetics Society of America
+
+`2014-`	Society for the Study of Evolution
 
 `2019-21`	European Society for Evolutionary Biology
 
