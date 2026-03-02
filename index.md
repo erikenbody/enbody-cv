@@ -244,7 +244,9 @@ Richard G. and Reba Beidleman Award in Ecology
 ## Ph.D. mentees
 
 `2026-` Gerardo Mendoza - Ph.D. student
+
 `2025-` Amanda Sun - GGD Ph.D. student
+
 `2025-` Rachel Goodridge - Ph.D. student (co-advised with Philipp Messer)
 
 ## Ph.D. Committees I serve on
