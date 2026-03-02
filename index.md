@@ -266,11 +266,17 @@ Richard G. and Reba Beidleman Award in Ecology
 
 ## Invited Seminars & Visiting Lectures
 
+`2026`
+Evolutionary genomics for long-term study of finches on Daphne Major. University of San Francisco de Quito, Quito, Ecuador
+
+`2025`
+Evolutionary change inferred from from large-scale population genomics of adaptive radiations. Department of Ecology and Evolution, Cornell University, New York.
+
 `2025`
 The genes of the finch: using community genomics to study short and long-term evolution of Galápagos finches. SUNY Oswego student seminar series, Oswego, NY. 
 
 `2024`
-Community genomics in a changing world: linking ecological change with evolutionary outcomes. Cornell University, New York.
+Community genomics in a changing world: linking ecological change with evolutionary outcomes. Department of Natural Resources and the Environment, Cornell University, New York.
 
 `2024`
 Community genomics in a changing world: linking ecological change with evolutionary outcomes. UT Austin, Texas.
